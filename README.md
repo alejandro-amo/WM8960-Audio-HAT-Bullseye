@@ -1,10 +1,9 @@
-# WM8960 Audio HAT
+# The WM8960 Audio HAT is great, BUT...
+Waveshare has totally abandoned the maintenance of its drivers, rendering it very hard to use in a modern Raspberry Pi OS.
+Let's see if we can adapt the original source so it can properly build and run in Bullseye based versions of Raspberry Pi OS.
 
-The drivers of [WM8960 Audio HAT] for Raspberry Pi.
-
-http://www.waveshare.net/shop/WM8960-Audio-HAT.htm
-
-http://www.waveshare.com/wm8960-audio-hat.htm
+Original README follows
+----8<----8<----8<----8<----8<
 
 ### Install wm8960-soundcard
 Get the wm8960 soundcard source code. and install all linux kernel drivers

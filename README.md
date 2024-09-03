@@ -4,7 +4,8 @@ Waveshare has totally abandoned the maintenance of its drivers, rendering it ver
 Let's see if we can adapt the original source so it can properly build and run in Bullseye based versions of Raspberry Pi OS.
 
 Original README follows
-----8<----8<----8<----8<----8<
+
+----8<----8<----8<----8<----8<----
 
 ### Install wm8960-soundcard
 Get the wm8960 soundcard source code. and install all linux kernel drivers

@@ -1,5 +1,6 @@
 # The WM8960 Audio HAT is great, BUT...
 Waveshare has totally abandoned the maintenance of its drivers, rendering it very hard to use in a modern Raspberry Pi OS.
+
 Let's see if we can adapt the original source so it can properly build and run in Bullseye based versions of Raspberry Pi OS.
 
 Original README follows
